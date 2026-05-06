@@ -8,7 +8,7 @@
   "license": "Apache-2.0",
   "scripts": {
     "build": "vite build",
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler deploy",
     "dev": "nodemon server.mjs",
     "start": "node server.mjs"
   },
